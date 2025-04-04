@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://lyrics05.github.io/portafolio-isidroRivera/)
 
-- 💬 Ask me about **HTML5, CSS, JAVASCRIPT, SASS, REACT JS,NODE JS,REDUX,**
+- 💬 Ask me about **HTML5, CSS, JAVASCRIPT, SASS, REACT JS,NODE JS,REDUX, SEQUELIZE, MONGODB JWT, MYSQL**
 
 - 📫 How to reach me **dca495@gmail.com**
 
